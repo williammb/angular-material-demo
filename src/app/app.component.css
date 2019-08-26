@@ -42,11 +42,20 @@ mat-sidenav {
 /* END Sidenav */
 
 
-/* Menu */
+/* Menu 
 
 .center {
     margin: 10rem;
 }
 
-
 /* END Menu */
+
+
+/* Grid */
+
+mat-grid-tile {
+    background-color: lightblue;
+}
+
+
+/* END Grid */
